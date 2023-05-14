@@ -3,8 +3,6 @@ As in: `v1.2.3` Bump minor => `v1.3.0`
 
 Extends [golang.org/x/mod/semver](https://pkg.go.dev/golang.org/x/mod/semver)
 
-[![GoDoc](https://godoc.org/github.com/tomharrisonjr/semverbump?status.svg)](https://godoc.org/github.com/tomharrisonjr/semverbump)
-
 ## Usage
 
 ```go
